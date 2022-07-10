@@ -42,6 +42,6 @@ Description - {m.characters.all(nameStartsWith=hero)['data']['results'][0]['desc
             
 a = Marvel()
 
-a.image('asdasd')
+a.image('Captain America')
         
        
