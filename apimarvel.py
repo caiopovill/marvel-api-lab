@@ -36,7 +36,7 @@ Description - {m.characters.all(nameStartsWith=hero)['data']['results'][0]['desc
             driver.get(f'{path}.jpg')
             sleep(10)
         except IndexError:
-            print("Hero doesn't have ")
+            print("Hero doesn't exists")
         
         
             
